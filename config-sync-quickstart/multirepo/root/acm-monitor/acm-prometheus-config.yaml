@@ -120,5 +120,5 @@ spec:
     - config-management-monitoring
   endpoints:
   - port: metrics
-    interval: 10s
+    interval: 20s
 # [END anthosconfig_config_sync_quickstart_multirepo_root_acm_monitor_service_monitor] 
